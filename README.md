@@ -9,11 +9,13 @@
 
 - 💬 Ask me about **Python**, **Databases** or **Machine Learning**
 
-- 📫 How to reach me **olofssonvictor@gmail.com**
+- 📫 Reach me at **olofssonvictor@gmail.com**
+
+- 📫 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/victor-olofsson-29a866236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victor-olofsson-29a866236" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/victor-olofsson-29a866236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victor-olofsson-29a866236" height="5" width="7" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
