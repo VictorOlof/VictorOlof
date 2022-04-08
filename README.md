@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @VictorOlof
-- 👀 I’m interested in Python...
+- 👀 I’m interested in Python, C#, Javascript.
+- 🌱 I’m currently learning C# and Swift.
+- 📫 Reach me at linkedIn@
 
 <!---
 - 🌱 I’m currently learning ...
