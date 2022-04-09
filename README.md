@@ -10,8 +10,3 @@
 - 💬 Ask me about **Python**, **Databases** or **Machine Learning**
 
 - 📫 Reach me at **olofssonvictor@gmail.com**
-
-<h5 align="left">Connect with me:</h5>
-<p align="left">
-<a href="https://linkedin.com/in/victor-olofsson-29a866236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victor-olofsson-29a866236" height="20" width="27" /></a>
-</p>
