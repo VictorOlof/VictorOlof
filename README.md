@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [anodet](https://github.com/OpenAOI/anodet)
 
-- 🌱 I’m currently learning **C#, Javascript**
+- 🌱 I’m currently learning **C#**, **Javascript**
 
 - 💬 Ask me about **Python**, **Databases** or **Machine Learning**
 
