@@ -3,7 +3,7 @@
 
 - 📚 I'm currently studying 'Python developer with Machine Learning'
 
-- 🔭 I’m currently working on [anodet](https://github.com/OpenAOI/anodet)
+- 🔭 I’m currently working on [aoi_interface](https://github.com/henrikBjorserud/aoi_interface)
 
 - 🌱 I’m currently learning **C#**, **Unity**, **Javascript**
 
