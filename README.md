@@ -3,10 +3,10 @@
 
 - 📚 I'm currently studying 'Python developer with Machine Learning'
 
-- 🔭 I’m currently working on [aoi_interface](https://github.com/henrikBjorserud/aoi_interface)
+- 🔭 I’m currently working on [aoi_interface](https://github.com/henrikBjorserud/aoi_interface), [anodet](https://github.com/OpenAOI/anodet), [HeroesPathToGlory](https://github.com/VictorOlof/HeroesPathToGlory) 
 
 - 🌱 I’m currently learning **C#**, **Unity**, **Javascript**
 
-- 💬 Ask me about **Python**, **Databases** or **Machine Learning**
+- 💬 Ask me about **Python**, **Databases**, **HTML/ CSS** or **Machine Learning**
 
 - 📫 Reach me at **olofssonvictor@gmail.com**
