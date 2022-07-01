@@ -3,9 +3,9 @@
 
 - 📚 I'm currently studying 'Python developer with Machine Learning'
 
-- 🔭 I’m currently working on [anomaly-detection-app](https://github.com/OpenAOI/anomaly-detection-app), [anodet](https://github.com/OpenAOI/anodet), [HeroesPathToGlory](https://github.com/VictorOlof/HeroesPathToGlory) 
+- 🔭 I’m currently working on [unity-tower-defense](https://github.com/VictorOlof/Unity-Tower-Defense), [anodet](https://github.com/OpenAOI/anodet)
 
-- 🌱 I’m currently learning **C#**, **Unity**, **Javascript**
+- 🌱 I’m currently learning **C#**, **Unity**, **React Native**
 
 - 💬 Ask me about **Python**, **Databases**, **HTML/ CSS/ JS** or **Machine Learning**
 
