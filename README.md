@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Victor Olofsson</h1>
 
-- 🔭 I’m currently working on [unity-helicopter-game](https://github.com/VictorOlof/) and [react-to-do-app](https://github.com/VictorOlof)
+- 🔭 I’m currently working on [unity-helicopter-game](https://github.com/VictorOlof/Unity-Helicopter)
 
 - 🌱 I’m currently learning **Unity** and **React Native**.
 
